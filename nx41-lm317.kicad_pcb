@@ -421,6 +421,9 @@
     )
   )
 
+  (gr_text "https://github.com/b-oern/nx41_lm317" (at 75.71 68.7) (layer "B.SilkS") (tstamp f2123d73-7f38-42ab-8e4d-e23822392260)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
   (gr_text "GND" (at 68.18 66.09 90) (layer "F.SilkS") (tstamp 6e5e7768-efb8-4db1-b531-f33a8293810d)
     (effects (font (size 1 1) (thickness 0.15)))
   )
